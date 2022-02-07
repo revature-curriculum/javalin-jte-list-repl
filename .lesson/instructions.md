@@ -1,4 +1,4 @@
-## Javalin JTE List
+## JTE List
 ---
 ### Description
 In this lab we will cover how to iterate through an ArrayList of Strings using JTE.
