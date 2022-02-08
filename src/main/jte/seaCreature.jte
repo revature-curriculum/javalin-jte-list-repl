@@ -1,4 +1,5 @@
-
+@import java.util.*;
+@param ArrayList<String> seaCreatures
 
 <html lang="en">
 
@@ -7,8 +8,10 @@
 </head>
 
 <body>
-
-
+  <p>My favorite sea creatures are:</p>
+  @for(String seaCreature : seaCreatures)
+      <li>${seaCreature}</li>
+      @endfor
 
 </body>
 

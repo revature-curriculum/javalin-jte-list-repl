@@ -1,4 +1,4 @@
-## JTE List
+## JTE List Answer
 ---
 ### Description
 In this lab we will cover how to iterate through an ArrayList of Strings using JTE.
